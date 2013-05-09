@@ -1,3 +1,9 @@
+endlessos-base-apps (2.2_test) unstable; urgency=low
+
+  * Updating version to 2.2_test
+
+ -- Roddy Shuler <roddy@endlessm.com>  Wed, 08 May 2013 23:14:05 -0700
+
 endlessos-base-apps (1.0) unstable; urgency=low
 
   * Initial release
